@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ashish anshuman
-- 👀 I’m interested in making technology close to perfection.
+- 👀 I’m interested in technology close to perfection.
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 mail me on imashishanshuman@gmail.com
