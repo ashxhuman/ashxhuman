@@ -1,8 +1,7 @@
 - 👋 Hi, I’m ashish anshuman
-- 👀 I’m interested in technology which that enhance human interaction.
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on new projects.
-- 📫 mail me on ashxhuman@gmail.com
+- 👀 I’m interested in technology that enhance human interaction.
+- 🌱 I’m currently working on web development
+- 📫 mail me on ashxhuman.social@gmail.com
 
 <!---
 ashxhuman/ashxhuman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
