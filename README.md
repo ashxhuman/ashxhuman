@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ashish anshuman
 - 👀 I’m interested in technology that enhance human interaction.
-- 🌱 I’m currently working on web development
+- 🌱 I’m currently working on moose neuroscience simulator 
 - 📫 mail me on ashxhuman.social@gmail.com
 
 <!---
